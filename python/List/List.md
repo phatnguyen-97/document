@@ -5,4 +5,4 @@
 ```python
 empty_list = []
 ```
-
+- When we create a List object, it takes 56 bytes of memory. </br>
