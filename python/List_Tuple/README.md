@@ -6,7 +6,10 @@
 empty_list = []
 ```
 - When we create a List object, it takes 56 bytes of memory. </br>
+- [List Overall](./list.py) </br>
+- [List CRUD](./CRUD_list.py) </br>
 
 ## What is Tuple?
 - Sometimes, you want to create a list of items that cannot be changed throughout the program. `Tuples` allow you to do that. </br>
-- A `tuple` is a list that cannot change. Python refers to a value that cannot change as immutable. So by definition, a `tuple` is an `immutable list`. </br>
+- A `tuple` is a list that cannot change (immutable list). Python refers to a value that cannot change as immutable. So by definition, a `tuple` is an `immutable list`. </br>
+- [Tuple Overall](./tuple.py) </br>

@@ -1,5 +1,8 @@
 list_elements = ["Phat", "Nguyen", "Tan"]
 
+# Access last element
+print(list_elements[-1])  # Output: Tan
+
 # Add new List element
 list_elements.append("DC")
 print(list_elements)  # Output: ['Phat', 'Nguyen', 'Tan', 'DC']

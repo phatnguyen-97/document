@@ -12,5 +12,4 @@ print(
 )  # Output: 104 = 56 + 8*6 (reference to variables in list)= bytes
 print(sys.getsizeof(list_items_2))  # Output: 56 bytes
 
-# It will takes 104 + 28*6 = 272 bytes for all
-print(list_items[-1])
+# It will take 104 + 28*6 = 272 bytes for all
