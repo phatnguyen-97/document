@@ -21,6 +21,9 @@ empty_list = []
     - Using Python List slice to partially replace and resize a list </br> 
     - Using Python list slice to delete elements: `del list[start:end]`</br> 
 - [List Unpack](./list_source/unpack_list.py) </br>
+- [List Loop](./list_source/iterate_list.py) </br>
+    - Sometimes, you may want to access indexes of elements inside the loop. In these cases, you can use the enumerate() function. </br>
+    - The enumerate() function returns a `Tuple` that contains the current index and element of the list. </br>
 
 ## What is Tuple?
 - Sometimes, you want to create a list of items that cannot be changed throughout the program. `Tuple` allows you to do that. </br>
