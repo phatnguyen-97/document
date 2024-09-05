@@ -30,4 +30,4 @@ Output: [0,1]
 Only one valid answer exists.
 ```
 
-### [SOLUTION](../src/1_two_sum.py) 
+### [💡 SOLUTION](../src/1_two_sum.py) 
