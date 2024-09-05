@@ -1,4 +1,6 @@
-# This is place for learning Python
+# Menu for learning Python and Leetcode
 
-[- List and Tuple](./python/List_Tuple/README.md) </br>
-[- Dictionary and Set](./python/Dictionary_Set/README.md)
+## 1. [Leetcode](./leetcode/README.md)
+## 2. [Python](./python/README.md)
+## 3. [Django](./django/README.md)
+## 4. [Embedded](./embedded/README.md)

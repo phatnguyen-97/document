@@ -24,6 +24,10 @@ empty_list = []
 - [List Loop](./list_source/iterate_list.py) </br>
     - Sometimes, you may want to access indexes of elements inside the loop. In these cases, you can use the enumerate() function. </br>
     - The enumerate() function returns a `Tuple` that contains the current index and element of the list. </br>
+- [Find index of List elements](./list_source/index_elements) </br>
+    - We use index("key-name") </br>
+    - If `key-name` is not in the list, we will take `ValueError`: "key-name" is not in list.</br>
+    - Use the in operator with the index() function to find if an element is in a list. </br>
 
 ## What is Tuple?
 - Sometimes, you want to create a list of items that cannot be changed throughout the program. `Tuple` allows you to do that. </br>
